@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.87e8d355.css",
+    "main.js": "/react-gh-pages/static/js/main.c33a60f6.js",
+    "static/media/MEDPLUS.png": "/react-gh-pages/static/media/MEDPLUS.bdeb09d091365ea8328a.png",
+    "static/media/blob.png": "/react-gh-pages/static/media/blob.42bf9e7737ed651eee9d.png",
+    "static/media/react.png": "/react-gh-pages/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logotrans_white.png": "/react-gh-pages/static/media/logotrans_white.755aaabe5539f18645bb.png",
+    "static/media/node.png": "/react-gh-pages/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/react-gh-pages/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-gh-pages/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-gh-pages/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-gh-pages/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-gh-pages/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/Project3.png": "/react-gh-pages/static/media/Project3.b5a7f12f6abd4557c54e.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.87e8d355.css.map": "/react-gh-pages/static/css/main.87e8d355.css.map",
+    "main.c33a60f6.js.map": "/react-gh-pages/static/js/main.c33a60f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e8d355.css",
+    "static/js/main.c33a60f6.js"
+  ]
+}
